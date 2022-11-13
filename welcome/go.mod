@@ -1,4 +1,4 @@
-module github.com/dingtra/welcome
+module github.com/dingtra/welcome/welcome
 
 go 1.19
 
